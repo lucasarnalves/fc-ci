@@ -1,0 +1,16 @@
+{
+  "name": "m-ci",
+  "version": "1.0.0",
+  "description": "Desafio Ci - node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.4",
+    "sonar-scanner": "^3.1.0"
+  }
+}
